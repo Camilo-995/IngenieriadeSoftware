@@ -1,0 +1,1 @@
+<?php echo "<h1>Bienvenidos al Ambiente de Staging (Pruebas)</h1>"; ?>
